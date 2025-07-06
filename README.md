@@ -34,5 +34,5 @@ A simple and modern web app to help users track their personal expenses visually
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/vanshrajput099/personal-finance-visualizer.git
-cd personal-finance-visualizer
+git clone https://github.com/vanshrajput099/intern-finance.git
+cd intern-finance
